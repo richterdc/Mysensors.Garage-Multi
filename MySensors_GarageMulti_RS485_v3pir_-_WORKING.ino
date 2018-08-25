@@ -1,5 +1,5 @@
 // Enable debug prints to serial monitor
-#define MY_DEBUG
+//#define MY_DEBUG
 
 // Must Define Node ID either numerical 1-255 or AUTO.
 #define MY_NODE_ID 2
